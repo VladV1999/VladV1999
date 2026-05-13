@@ -65,7 +65,7 @@ class Vladislav:
 | [**asteroids_game**](https://github.com/VladV1999/asteroids_game) | Classic asteroids, reimagined *(Boot.dev)* | Python |
 | [**bookbot**](https://github.com/VladV1999/bookbot) | Book analysis bot *(Boot.dev)* | Python |
 | [**Adventurer**](https://github.com/VladV1999/Adventurer) | My own attempt at emulating a DND environment => soon to port to an actual engine (in the works of rebuilding it from the ground up with my gained knowledge) | C++ + Cmake
-| [**Rusty Adventurer**](https://github.com/VladV1999/Rusty_Adventurer) | A rewrite of the Adventurer in Rust. Rust fascinated me, and I'm working on getting it to the same level as Adventurer, soon to be used with an engine as well!
+| [**Rusty Adventurer**](https://github.com/VladV1999/Rusty_Adventurer) | A rewrite of the Adventurer in Rust. Rust fascinated me, and I'm working on getting it to the same level as Adventurer, soon to be used with an engine as well! | Rust
 **Anything with Boot.dev has been guided, I wrote the code with my own effort, only the path to building has been provided, resulting in a breadth of knowledge gained!**
 ---
 
